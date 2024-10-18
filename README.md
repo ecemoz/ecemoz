@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ecem Nur Özen</h1>
 <h3 align="center">A 2nd-year Computer Education and Instructional Technology (CEIT) student with a growing passion for programming and technology. Currently, I'm learning several programming languages like Java and C, and constantly expanding my skills.</h3>
 
-- 🔭 I’m currently working on **Student Management System with Java**
+- 🔭 I’m currently working on **Galata Code Learning APP**
 
 - 🌱 I’m currently learning **Java**
 
