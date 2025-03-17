@@ -1,11 +1,25 @@
-# 💫 About Me:
-🔭 I’m currently working on Java Spring Boot and Python projects, focusing on backend development and AI applications.<br>👯 I’m looking to collaborate on Spring Boot, Python, and mobile development projects.<br>🤝 I’m looking for help with advanced backend architectures, API design, and AI integration.<br>🌱 I’m currently learning Spring Boot, FastAPI, machine learning, and cloud computing.<br>💬 Ask me about Java Spring Boot, Python, AI, and educational technologies.<br>⚡ Fun fact: I love turning real-life problems into smart digital solutions! 🚀
+
+# **💖✨ 𝒲𝑒𝓁𝒸𝑜𝓂𝑒 𝒯𝑜 𝑀𝓎 𝒮𝓅𝒶𝓇𝓀𝓁𝒾𝓃𝑔 𝒞𝑜𝒹𝒾𝓃𝑔 𝒲𝑜𝓇𝓁𝒹! ✨💖**  
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Sacramento&size=40&duration=4000&pause=1000&color=E6A8D7&center=true&vCenter=true&random=false&width=700&lines=✨💖+Welcome+to+my+Magical+Coding+Area!+💖✨;🌸+Coding+with+grace+and+style!+🌸;💎+Dream+it.+Code+it.+Shine!+💎" />
+</p>
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/ecemnurozen) 
+  ![Alt Text](https://media.tenor.com/qVaQBPj0bI4AAAAi/stars-sparkling.gif)
+  ![Alt Text](https://media.tenor.com/qVaQBPj0bI4AAAAi/stars-sparkling.gif)
 
-# 💻 Tech Stack 
+
+## **🌸🎀 𝒜𝒷𝑜𝓊𝓉 𝑀𝑒 🎀🌸**  
+
+✨ **💻 Backend Developer & AI Enthusiast**  
+✨ **💖 Turning real-world problems into dreamy digital solutions!**  
+✨ **🌷 Passionate about AI, cloud computing & elegant software design!**  
+✨ **🎀 Always learning, always growing, always sparkling!**  
+
+---
+
+## **💎🌷 𝑀𝓎 𝒯𝑒𝒸𝒽 𝒮𝓉𝒶𝒸𝓀 🌷💎**  
 
 <p align="center">
   <img src="https://img.shields.io/badge/C-FFB6C1?style=for-the-badge&logo=c&logoColor=white" />
@@ -43,7 +57,17 @@
   <img src="https://img.shields.io/badge/Gradle-FDA4B2?style=for-the-badge&logo=gradle&logoColor=white" />
 </p>
 
-# 💖 Welcome to My GitHub Profile! 🎀  
+
+🌸 **Backend:** Java (Spring Boot), Python (FastAPI)  
+🌸 **Databases:** PostgreSQL, MySQL, Firebase  
+🌸 **Cloud:** AWS, Vercel, Render  
+🌸 **Security & Auth:** JWT, OAuth  
+🌸 **DevOps:** Docker, GitHub Actions  
+🌸 **AI & ML:** TensorFlow, PyTorch, NumPy  
+
+---
+
+## **💖✨ 𝒮𝓉𝒶𝓉𝓈 & 𝒮𝓅𝒶𝓇𝓀𝓁𝑒𝓈 ✨💖**  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ecemoz&theme=tokyonight&bg_color=FFC0CB&title_color=FF69B4&text_color=FF1493&hide_border=true&include_all_commits=true&count_private=true" />
@@ -53,13 +77,40 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ecemoz&theme=tokyonight&bg_color=FFC0CB&title_color=FF69B4&text_color=FF1493&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
 </p>
 
+---
 
-## 🎀 Contribution Stats 🎀  
+## **🎀✨ 𝒞𝑜𝓃𝓉𝒶𝒸𝓉 𝑀𝑒 ✨🎀**  
+
+💖 **[LinkedIn](https://linkedin.com/in/ecemnurozen)**  
+💖 **[GitHub](https://github.com/ecemoz)**  
+
+ ![Alt Text](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmd6dTMwcHk3NTV0YTRpOWdocWMyN3pyNW1wOXVqNGZ3cnljNHlociZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MAl6ITVxHFqdmotPxH/giphy.gif)
+---
+
+## **💎🎀 𝒞𝑜𝓃𝓉𝓇𝒾𝒷𝓊𝓉𝒾𝑜𝓃 𝒮𝓉𝒶𝓉𝓈 🎀💎**  
+
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=ecemoz&limit=5&theme=tokyonight&bg_color=FFC0CB&title_color=FF69B4&text_color=FF1493&combine_all_yearly_contributions=true" />
 </p>
 
-## 🌸 Visitors 🌸  
+---
+
+## **🌸✨ 𝒱𝒾𝓈𝒾𝓉𝑜𝓇 𝒞𝑜𝓊𝓃𝓉 ✨🌸**  
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ecemoz&color=FF69B4&style=flat-square&label=🌸%20Profile%20Visitors%20🌸" />
 </p>
+
+---
+
+## **🎀💖 𝒮𝓅𝒶𝓇𝓀𝓁𝑒𝓈 & 𝒯𝒽𝑒 𝒫𝒾𝓃𝓀 𝒞𝑜𝒹𝒾𝓃𝑔 𝒞𝒶𝓈𝓉𝓁𝑒 💖🎀**  
+
+✨ **Coding is like casting a spell!** ✨  
+🌷 **Elegance & creativity in every line of code!** 🌷  
+🎀 **Writing software with style & sparkle!** 🎀  
+💎 **Turning ideas into dreamy digital experiences!** 💎  
+
+---
+
+## **💖🌸 𝒯𝒽𝑒 𝒢𝑜𝓁𝒹𝑒𝓃 & 𝒫𝒶𝓈𝓉𝑒𝓁 𝒞𝑜𝒹𝒾𝓃𝑔 𝒯𝑜𝓌𝑒𝓇 🌸💖**  
+ ![Alt Text](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWJsNzd2ZXBibnl2bmZrc28zMTZtNHMyMzB6dGhpb3dqMWEzbXV1YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZmPPBIpzyEdXOyyLAt/giphy.gif)
